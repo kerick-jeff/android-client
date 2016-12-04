@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_25c3ed64e7cb5bf4a155668e12da2e2ea01d1d4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_633bd83d48501a9a8a43bc74dcb6e147370f233f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/rxjava-1.1.5_cf7c72999e9493e4c0a58405ee00bd9c5bb239e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_fcc6e3077b5861ff71953b17b987e9a35cc5aa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.1.1_ce51737e3e0da02b4044e0fd69cafbbf4ef2a53c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/commons-cli-1.2_76985934c6ab6021dc7f1cfbd3ee7b5eb5bd3580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_c41954cab26173d632d3d166721ed9723cc292f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/jsr250-api-1.0_42906a7ea460cf84f18dd33fca725c8523476b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.1.1/f205bcc63da15f536f333e1c82de622fdbb35956/dbflow-core-3.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f205bcc63da15f536f333e1c82de622fdbb35956">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/dbflow-core-3.1.1_aa29739f41a188302d8b48fb7bbad35146c4f4bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho/1.3.1/2c4076b466a0eb4d6ddf5721edd35cd1adc1f317/stetho-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2c4076b466a0eb4d6ddf5721edd35cd1adc1f317">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/stetho-1.3.1_ebf05d12be1b95746539746368da51a59e0728f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/glide-3.7.0_f4a2287f48136151df26efb83c1979ad78d458fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="152d1de4d18361aabd69adeefe3dee15e4fd238f">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.google.maps.android-android-maps-utils-0.4.2_5af9e724c35b21baa12b17d48262313db77d735b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/okhttp-3.3.1_72020d5f1ff51f3529adaf250ae9b6506ced3463.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/javax.inject-1_3bfb16e750a5ef422f41fec21ac5813038fed285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.joanzapata.iconify/android-iconify/2.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3e9db26c95288c1954e7de86d9e94e1259fb608b">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.joanzapata.iconify-android-iconify-2.1.1_50b8e621b9f4051d027e82e24f05e79fddb5f9cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_8f031d228fff88261d86bd353f6f7e69c7d0fe7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.facebook.stetho/stetho-okhttp3/1.3.1/c596b3b33b5a92107bb70544bb5ee35f597bc6d8/stetho-okhttp3-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c596b3b33b5a92107bb70544bb5ee35f597bc6d8">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/stetho-okhttp3-1.3.1_a641591ac0cdc1a0d161ba2a3afb52c6ea1ce911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.1_e079e6c71c3c147a98bd2850befeb97286c7604b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_b2952e76e99dd60a425de855d41b5fbbee7c6b22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e645fb38a70aa78ff660e9d83a398b2eabccf95a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_7671b9bb0d3d0bfcd13a047c71e0a8386ef646cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_2e31d98f304b0fde2cfaa8c18171381d806f0b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/retrofit-2.1.0_561ab5960898248f1e554be7b4a129860da09c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.1_e1bca1deb0542c35c560aa96d09c4d8a8e5150b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.2/febfd2d9e89bde4c3a9723bcd9522cba96bddac7/dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/dagger-2.2_e521b99a8c7e5a1c9be129e6eaf0a51c206906b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_10d63e0b63b75b5d517b4ef3bffef0dc021cdb2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/okio-1.8.0_3b5c7009c369c0edd0842990997bf2d53236dba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7ea5911b4d3c1e2216e354f4fed71f7ebdc784d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.joanzapata.iconify/android-iconify-material/2.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c784493f5ecc3791c32ad69b1cbb81ab6a50796">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.joanzapata.iconify-android-iconify-material-2.1.1_c42fe864af6184fee1ce7a007db43a66fe4d6eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.amulyakhare/com.amulyakhare.textdrawable/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_8d1ba7369b65d5532ba2046a414c31234a81376d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/gson-2.7_013b0e83fc25388e6c50402e736cd1a1b3d75aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.3.0_b40101bfc33faac04d5d97722c3c60a8f8225ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/converter-scalars-2.1.0_e0338335df2bb820c9f351bbe2c376f36ca6a56f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.1.0_4e7f588a8dd5edefcfc32846201681dbf1734e57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/jsr305-2.0.1_12ac0d9697660752761bfa9a3a8b4bfa9c064e2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.jakewharton.fliptables/fliptables/1.0.1/41af4f95028e93f37d372f313867606e8be9375f/fliptables-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="41af4f95028e93f37d372f313867606e8be9375f">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/fliptables-1.0.1_8f967252e2d365bae9afd1fd1e5b97b19ef24097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.github.Raizlabs.DBFlow/dbflow/3.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58342b97007b49e4a536bdd30b9c3928be81ae59">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.github.Raizlabs.DBFlow-dbflow-3.1.1_aa96b967945ee621a61e5c7d2ace9708eabe9bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/android-client/mifosng-android/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.3.0_8ba980f01e972d8f946e23dab68912d2d1563bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kerick/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/kerick/android-client/mifosng-android/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_73a4df232ba2d7a954960d9df582f7b23e776a28.jar" />
+    </item>
+
+</items>

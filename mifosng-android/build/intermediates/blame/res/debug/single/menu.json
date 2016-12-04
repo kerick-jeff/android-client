@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/splash_screen.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/splash_screen.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/menu_client_identifier.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/menu_client_identifier.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/menu_nav_drawer.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/menu_nav_drawer.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/menu_add.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/menu_add.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/menu_sync.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/menu_sync.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/offline_menu.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/offline_menu.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/offline_center_menu.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/offline_center_menu.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/client_save_pin.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/client_save_pin.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/centers.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/centers.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/generate_collection_sheet.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/generate_collection_sheet.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/menu_client.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/menu_client.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/group.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/group.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/client_search.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/client_search.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/client_image_popup.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/client_image_popup.xml"
+    },
+    {
+        "merged": "/home/kerick/android-client/mifosng-android/build/intermediates/res/merged/debug/menu/client.xml",
+        "source": "/home/kerick/android-client/mifosng-android/src/main/res/menu/client.xml"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/home/kerick/android-client/mifosng-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 16,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/home/kerick/android-client/mifosng-android/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 8,
+                        "startOffset": 60,
+                        "endLine": 5,
+                        "endColumn": 16,
+                        "endOffset": 215
+                    }
+                }
+            }
+        ]
+    }
+]
